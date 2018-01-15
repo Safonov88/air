@@ -1,6 +1,7 @@
 .action {
-  padding: 40px 0;
+  padding: 40px;
   background: #f2f2f2;
+  margin-top: 40px;
 }
 
 .action-image {
